@@ -1,5 +1,5 @@
 
-##👋 Hi there, I'm Arthur!
+## 👋 Hi there, I'm Arthur!
 
 🧠 I'm currently learning programming.
 
