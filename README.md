@@ -1,5 +1,5 @@
 
-## 👋 Hi there
+## Hi 👋, I'm Artur Adigamov
 
 🌱 I'm currently learning Java.
 
