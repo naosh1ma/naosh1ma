@@ -10,11 +10,16 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-adigamov-103a28294/)
 [![xing](https://img.shields.io/badge/xing-white?style=for-the-badge&logo=xing&logoColor=green&link=https%3A%2F%2Fwww.xing.com%2F)](https://www.xing.com/profile/Artur_Adigamov/)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Xing&logo=xing&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/artur-adigamov-103a28294/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+   <a href="https://https://discord.com/channels/@naosh1ma" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+      </a>
+  <a href="https://https://www.xing.com/profile/Artur_Adigamov/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Xing&logo=xing&label=&color=25D366&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
@@ -28,14 +33,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/naosh1ma/naosh1ma/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31dvhcpxya3takok3exshfzqr4qe">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dvhcpxya3takok3exshfzqr4qe&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/naosh1ma/naosh1ma/output/snake.svg" alt="Snake animation" />
 
 ###
