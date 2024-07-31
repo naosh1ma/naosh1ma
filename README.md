@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Xing&logo=xing&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Xing&logo=xing&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
 </div>
 
 ###
