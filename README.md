@@ -38,14 +38,6 @@
 <img src="https://raw.githubusercontent.com/naosh1ma/naosh1ma/output/snake.svg" alt="Snake animation" />
 
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-
-
 
 
 
