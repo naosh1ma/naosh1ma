@@ -17,7 +17,7 @@
   <a href="https://www.xing.com/profile/Artur_Adigamov/web_profiles" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Xing&logo=xing&label=&color=25D366&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
-   <a href="https://https://discord.com/channels/@naosh1ma" target="_blank">
+   <a href="https://discord.com/channels/@naosh1ma" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
