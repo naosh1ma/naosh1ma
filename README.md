@@ -35,12 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/naosh1ma/naosh1ma/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
 
 
 
