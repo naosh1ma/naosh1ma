@@ -24,14 +24,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=naosh1ma&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31dvhcpxya3takok3exshfzqr4qe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dvhcpxya3takok3exshfzqr4qe&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
