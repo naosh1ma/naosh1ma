@@ -20,7 +20,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naosh1ma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Java" height="150" alt="languages graph"  />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=naosh1ma&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+  <img src="https://github-profile-trophy.vercel.app?username=naosh1ma&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://streak-stats.demolab.com?user=naosh1ma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 
