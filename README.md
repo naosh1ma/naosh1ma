@@ -49,12 +49,6 @@
   <img src="https://streak-stats.demolab.com?user=naosh1ma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
   </div>
 
-
-###
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=naosh1ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 ###
 
 
