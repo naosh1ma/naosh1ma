@@ -15,10 +15,10 @@
 
 - **Java**: OOP, Collections, Fehlerbehandlung, Validation
 - **Spring**: Spring Boot, REST (Controller/Service/Repository), Spring Data JPA (Hibernate), Spring Security (inkl. JWT)
-- **Datenbanken**: PostgreSQL, MariaDB; Test-DB: H2
+- **Datenbanken**: PostgreSQL, MariaDB;
 - **Caching & Messaging**: Redis, Kafka (Grundlagen & Einsatz in Anwendungen)
 - **Observability**: Actuator, Micrometer, Prometheus, Grafana; Logging-Stack (ELK) im Setup
-- **Build & Tools**: Maven (inkl. Maven Wrapper), Git/GitHub, IntelliJ IDEA
+- **Build & Tools**: Maven (inkl. Maven Wrapper), Git/GitHub, IntelliJ IDEA, Docker
 - **Web**: HTML/CSS; TypeScript (Basics)
 - **Arbeitsweise**: saubere Projektstruktur, Konfiguration über Profile/Umgebungsvariablen, reproduzierbare Setups
 
